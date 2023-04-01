@@ -18,3 +18,7 @@ Image Gallery mini-project from Tailwind course.
 
 ![Alt text](src/product-modal/images/product-modal.png)
 
+# Article Preview
+
+![Alt text](src/article-preview/images/article-preview.png)
+
