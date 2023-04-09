@@ -5,6 +5,8 @@ module.exports = {
     extend: {
       fontFamily: {
         manrope: ['Manrope', 'sans-serif'],
+        sans: ['Mulish', 'sans-serif'],
+        mono: ['Rokkitt', 'monospace'],
       }
     },
   },
