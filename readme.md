@@ -22,3 +22,7 @@ Image Gallery mini-project from Tailwind course.
 
 ![Alt text](src/article-preview/images/article-preview.png)
 
+# testimonial grid
+
+![Alt text](src/grid-testimonial/images/testimonial-grid.png)
+
